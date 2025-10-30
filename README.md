@@ -3,3 +3,6 @@ Chess engine i PyTorch, trent opp data fra proffspill. Datasett fra https://data
 
 Alle de 4750 proffspillene lagres som et objekt av typen Game fra chess-bibloteket. 
 Bruker konvolusjonsbasert nevralt nettverk (CNN). 
+
+
+Guide fra https://github.com/Skripkon 
