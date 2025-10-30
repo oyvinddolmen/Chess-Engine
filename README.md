@@ -10,7 +10,7 @@ Resultat:
 
 Eksempelspill: bot'en spiller mot seg selv
 <p align="center">
-  <img src="eksempel_game.gif" alt="Chess Engine Demo" width="500"/>
+  <img src="eksempel_game.gif" alt="Chess Engine Demo" width="300"/>
 </p>
 
 Modellens oppbygning:
