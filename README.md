@@ -9,8 +9,8 @@ Resultat:
       - leste at man burde bruke dyp reinforcment learning (DRL) for å få bedre late-game
 
 Eksempelspill: bot'en spiller mot seg selv
-<p align="left">
-  <img src="eksempel_game.gif" alt="Chess Engine Demo" width="300" padding-left="100px"/>
+<p align="center">
+  <img src="eksempel_game.gif" alt="Chess Engine Demo" width="300" />
 </p>
 
 Modellens oppbygning:
