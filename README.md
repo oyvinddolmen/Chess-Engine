@@ -7,6 +7,7 @@ Resultat:
 - Jeg kan lite om sjakk, men virket som modellen var god i early- og tidlig mid-game, men fryktelig dårlig i late-game.
 - Dette er nok fordi den får trent masse på early games som er relativt like, men ingen late-games er like og den vet da ikke hva den skal gjøre.
 - Leste at man burde bruke dyp reinforcment learning (DRL) for å få bedre late-game
+- Burde nok også brukt flere spill i treningen. Typ 50 000 istedenfor 561.
 
 Eksempelspill: bot'en spiller mot seg selv
 <p align="left">
