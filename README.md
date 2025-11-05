@@ -1,4 +1,4 @@
-# ♟️ Chess Engine
+# Chess Engine
 Chess engine i PyTorch, trent opp data fra proffspill. Datasett fra https://database.nikonoel.fr/ 
 
 Resultat:
